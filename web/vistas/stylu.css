@@ -1,0 +1,37 @@
+body
+{
+    background-color: gray;
+    
+}
+h3
+{
+   text-align: center;
+   color: black;
+   background-color:greenyellow;
+}
+div
+{
+    text-align: center;
+    
+}
+table
+{
+    margin: auto;
+    
+    width: 1000px;
+    background-color: yellowgreen;
+    
+}
+
+th{
+    
+    border-color: black;
+}
+td{
+    font-family: arial;
+    background-color:buttonface;
+}
+button:hover{
+    background-color: yellow;
+}
+
